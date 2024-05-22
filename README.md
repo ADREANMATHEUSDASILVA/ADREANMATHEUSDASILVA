@@ -1,16 +1,15 @@
-### BOAS VINDAS AO MEU PERFIL🖤
+### BOAS VINDAS AO MEU PERFIL 
 
+Meu nome é Adrean Matheus 
 
-**ADREANMATHEUSDASILVA/ADREANMATHEUSDASILVA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- estou estudando no Alura
+- esou me desenvolvendo na linguagem JavaScript
+- ultilizo esse espaço para minha organição e compartilhamento dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+ ### você entrar em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ Adreanmatheus238@gmail.com
 
+ @ams_matheus_
+
+![]( https://media1.tenor.com/m/tF1MsKvCY60AAAAd/ronaldo-bye-bye.gif)
