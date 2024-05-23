@@ -2,7 +2,7 @@
 
 Meu nome é Adrean Matheus 
 
-- estou estudando no Alura
+- estou estudando no [Alura](https://www.alura.com.br)
 - esou me desenvolvendo na linguagem JavaScript
 - ultilizo esse espaço para minha organição e compartilhamento dos meus projetos desenvolvidos
 
